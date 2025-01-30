@@ -9,4 +9,4 @@
 // git log -> untuk mencetak resi dan melihat update pada git
 // git remote add origin -> untuk menentukan alamat repository
 // git remote -v -> untuk mengecek alamat sudah benar atau belum
-
+// git push origin main
